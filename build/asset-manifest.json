@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dineshkumar510/GithubProfile/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Dineshkumar510/GithubProfile/static/js/main.da0c1b6b.chunk.js",
+    "main.js.map": "/Dineshkumar510/GithubProfile/static/js/main.da0c1b6b.chunk.js.map",
+    "runtime-main.js": "/Dineshkumar510/GithubProfile/static/js/runtime-main.72a069a5.js",
+    "runtime-main.js.map": "/Dineshkumar510/GithubProfile/static/js/runtime-main.72a069a5.js.map",
+    "static/css/2.053f5f0c.chunk.css": "/Dineshkumar510/GithubProfile/static/css/2.053f5f0c.chunk.css",
+    "static/js/2.41e32584.chunk.js": "/Dineshkumar510/GithubProfile/static/js/2.41e32584.chunk.js",
+    "static/js/2.41e32584.chunk.js.map": "/Dineshkumar510/GithubProfile/static/js/2.41e32584.chunk.js.map",
+    "static/js/3.a043cbf5.chunk.js": "/Dineshkumar510/GithubProfile/static/js/3.a043cbf5.chunk.js",
+    "static/js/3.a043cbf5.chunk.js.map": "/Dineshkumar510/GithubProfile/static/js/3.a043cbf5.chunk.js.map",
+    "index.html": "/Dineshkumar510/GithubProfile/index.html",
+    "static/css/2.053f5f0c.chunk.css.map": "/Dineshkumar510/GithubProfile/static/css/2.053f5f0c.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Dineshkumar510/GithubProfile/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.41e32584.chunk.js.LICENSE.txt": "/Dineshkumar510/GithubProfile/static/js/2.41e32584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72a069a5.js",
+    "static/css/2.053f5f0c.chunk.css",
+    "static/js/2.41e32584.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.da0c1b6b.chunk.js"
+  ]
+}
